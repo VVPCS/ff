@@ -1,2 +1,2 @@
-# mmm
-want to play a game
+# ddd
+want not to play a game
